@@ -310,7 +310,7 @@ height:  auto;
 }
 
 .bi-arrow-right {
-    color: orange;
+    color: var(--primary-color);
     animation: blink 2s infinite;
 }
 
