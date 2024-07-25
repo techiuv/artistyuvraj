@@ -333,6 +333,29 @@ height:  auto;
     margin: auto;
     margin-top:  2%;
 }
+ 
+
+.arrow-link {
+    display: inline-block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
+
+.bi-arrow-right {
+    color: var(--primary-color);
+    animation: blink 2s infinite;
+}
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
 
 .tittle {
     font-size:  2vw;
