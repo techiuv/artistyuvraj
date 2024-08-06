@@ -52,7 +52,7 @@ const artworks = [
     { id: 6, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/horse.jpg', quantity: 1 },  
     { id: 7, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/1000000.jpg', quantity: 1 },    
     { id: 8, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/potraittwo.jpg', quantity: 1 },
-    { id: 9, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/lion.jpg', quantity: 1 },
+    //{ id: 9, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/lion.jpg', quantity: 1 },
     { id: 10, title: 'Charcoal', category: 'charcoal', image: 'assets/img/artworks/charcoal/1000000119.jpg', quantity: 1 },
     
 
